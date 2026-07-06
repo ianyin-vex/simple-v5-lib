@@ -25,7 +25,7 @@ This library uses simple language and easy logic. It helps you get the hang of i
 
 This is an example of a drivetrain and what the motor names (left front, left middle, etc.) stand for:
 ![Drivetrain](images/drivetrainExampleImage.png)
-4. **Tune:** Go to your simpleV5LibConfig.h file and tune your kp, ki, and kd constants by following this [YouTube Video Tutorial](LINK).
+4. **Tune:** Go to your simpleV5LibConfig.h file and tune your kp, ki, and kd constants by following this [YouTube Video Tutorial](https://www.youtube.com/watch?v=WN3_vxA_D04).
 5. **Code:** Start writing your autonomous routes! For some examples, view the Examples folder
 ### Units
 * Forward targets are in inches. It is worth noting that a single tile is around 23.622 inches wide.
@@ -33,4 +33,4 @@ This is an example of a drivetrain and what the motor names (left front, left mi
 
 ## Feedback & Support
 
-Notice a bug or have a feature request? Please open an issue on the [GitHub Issues tab](https://github.com).
+Notice a bug or have a feature request? Please open an issue on the [GitHub Issues tab](https://github.com/ianyin-vex/simple-v5-lib/issues).
